@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+jacobi
+noc_log.csv
+
 # Precompiled Headers
 *.gch
 *.pch
